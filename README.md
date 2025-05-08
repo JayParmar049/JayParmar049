@@ -52,7 +52,7 @@
 
 - LinkedIn: [Jay Parmar]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/jay-parmar-598a03244))
 - Portfolio: [jayparmar.dev](https://jayparmar.dev) *(update if available)*
-- Email: jayparmar2205@gmial.com *(optional)*
+- Email: jayparmar2205@gmail.com 
 
 ---
 
